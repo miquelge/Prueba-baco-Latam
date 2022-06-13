@@ -1,6 +1,6 @@
 # TEST Ábaco Latam
 
-Test para el proceso de selección empresa Ábaco Latam
+Test para el proceso de selección empresa Ábaco Latam. Proyecto de scrapping de la web https://bandcamp.com/
 
 ## Usage
 
